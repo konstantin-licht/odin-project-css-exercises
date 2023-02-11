@@ -1,0 +1,10 @@
+* {
+  font-family: sans-serif;
+}
+
+.container {
+  color: red;
+  background-color: yellow;
+  font-size: 20px;
+  align-items: center;
+}
